@@ -34,9 +34,7 @@ function call_api(finishedAPI, ticker) {
 		finishedAPI(body);
 
 		};
-
 	});
-
 };
 
 
